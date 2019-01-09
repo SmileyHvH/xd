@@ -1,0 +1,80 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Mehrere Dateien mit dem Namen Animation.cpp führen zu Ausgaben am selben Speicherort. Dadurch kann ein falsches Buildergebnis entstehen. Die betroffenen Dateien sind Animation.cpp, features\Animation.cpp.
+  AimLegit.cpp
+  AimRage.cpp
+  AntiAim.cpp
+  BulletImpact.cpp
+  Glow.cpp
+  GrenadePrediction.cpp
+  PlayerHurt.cpp
+  LagCompensation.cpp
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\AntiAim.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\Glow.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\BulletImpact.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\PlayerHurt.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\Glow.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\Glow.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\AntiAim.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\AntiAim.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\BulletImpact.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\BulletImpact.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\PlayerHurt.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\PlayerHurt.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\antiaim.cpp(126): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\antiaim.cpp(317): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\antiaim.cpp(337): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\antiaim.cpp(371): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\antiaim.cpp(391): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\AimRage.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\LagCompensation.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\GrenadePrediction.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\AimLegit.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\AimRage.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\AimRage.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\LagCompensation.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\LagCompensation.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\GrenadePrediction.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\GrenadePrediction.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\AimLegit.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\AimLegit.cpp)
+  Miscellaneous.cpp
+  Resolver.cpp
+  ServerSounds.cpp
+  Visuals.cpp
+  Handlers.cpp
+  Config.cpp
+  Menu.cpp
+  Options.cpp
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\Resolver.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\Miscellaneous.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\ServerSounds.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert features\Visuals.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert helpers\Config.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert Handlers.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\Resolver.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\Resolver.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\Miscellaneous.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\Miscellaneous.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\ServerSounds.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\ServerSounds.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert features\Visuals.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert features\Visuals.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert helpers\Config.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert helpers\Config.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert Handlers.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert Handlers.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\interfaces\ivmodelrender.hpp(47): warning C4293: "<<": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert. (Quelldatei wird kompiliert Menu.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\visuals.cpp(84): warning C4101: "buf": Unreferenzierte lokale Variable
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\gamehooking.hpp(67): warning C4138: "*/" wurde außerhalb des Kommentars gefunden (Quelldatei wird kompiliert Handlers.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\features\visuals.cpp(993): warning C4838: Konvertierung von "int" zu "unsigned char" erfordert eine einschränkende Konvertierung
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(159): warning C4005: "FUNCTION_GUARD": Makro-Neudefinition (Quelldatei wird kompiliert Menu.cpp)
+  c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\sdk.hpp(157): note: Siehe vorherige Definition von "FUNCTION_GUARD" (Quelldatei wird kompiliert Menu.cpp)
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\handlers.cpp(178): warning C4101: "size": Unreferenzierte lokale Variable
+c:\users\jonas\onedrive\desktop\gladiatorcheatz-v2.1-master\handlers.cpp(179): warning C4101: "color": Unreferenzierte lokale Variable
+Release\Animation.obj : warning LNK4042: Objekt mehrmals angegeben; zusätzliche Objekte werden ignoriert.
+  Code wird generiert.
+  273 of 5806 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    63 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Gladiatorcheatz v2.vcxproj -> C:\Users\jonas\OneDrive\Desktop\Gladiatorcheatz-v2.1-master\..\Smileyware\Exodia.dll
